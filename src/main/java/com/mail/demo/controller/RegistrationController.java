@@ -36,9 +36,9 @@ public class RegistrationController {
 		 * Creating a User with the help of User class that we have declared. Setting
 		 * the First,Last and Email address of the sender.
 		 */
-		user.setFirstName("Mukul");
-		user.setLastName("Jaiswal");
-		user.setEmailAddress("mukul.jaiswal786@gmail.com"); //Receiver's email address
+		user.setFirstName("Salah");
+		user.setLastName("ABOUSAID");
+		user.setEmailAddress("abousaid7salah@gmail.com"); //Receiver's email address
 
 		/*
 		 * Here we will call sendEmail() for Sending mail to the sender.
@@ -63,9 +63,9 @@ public class RegistrationController {
 		 * Creating a User with the help of User class that we have declared. Setting
 		 * the First,Last and Email address of the sender.
 		 */
-		user.setFirstName("Hamza");
-		user.setLastName("Mizo");
-		user.setEmailAddress(""); //Receiver's email address
+		user.setFirstName("Salah");
+		user.setLastName("Abousaid");
+		user.setEmailAddress("salah-eddine.abousaid@capgemini.com"); //Receiver's email address
 
 		/*
 		 * Here we will call sendEmailWithAttachment() for Sending mail to the sender
